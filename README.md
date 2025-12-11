@@ -31,7 +31,7 @@ I believe in learning by doing and improving every single day.
 
 ### 📘 Core Concepts
 - 💡 Object-Oriented Programming (OOP)  
-- 🧩 Data Structures (50% completed)  
+- 🧩 Data Structures  
 - ⚙️ Algorithms  
 - 🗄️ Database Fundamentals  
 - 🧠 Problem-Solving  

@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">🚀 Hi, I'm <span style="color:#4CAF50;">Youssef Ramadan</span></h1>
+<h3 align="center">💻 Computer Science Student | 🤖 Future ML Engineer | 🧠 Problem Solver</h3>
 
-<!--
-**yr21102004-hub/yr21102004-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏅 Badges & Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YoussefRamadan&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Student-CS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focused-Problem%20Solving-green?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a motivated Computer Science student passionate about **Software Development, Algorithms, OOP, Databases**,  
+and currently preparing myself for **Machine Learning & AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by doing and improving every single day.
+
+## 🧠 Skills & Knowledge
+
+### 📝 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 📘 Core Concepts
+- 💡 Object-Oriented Programming (OOP)  
+- 🧩 Data Structures (50% completed)  
+- ⚙️ Algorithms  
+- 🗄️ Database Fundamentals  
+- 🧠 Problem-Solving  
+- 🤖 Machine Learning (Coming Soon)
+
+## 🚧 Projects Coming Soon
+Stay tuned!  
+I'm working on multiple projects using **Python, C++, and SQL** and will upload them soon.
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefRamadan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefRamadan&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+## 📫 Contact Me
+- 📧 **Email:** yr21102004@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/youssef-ramadan-yr-454634386  
+
+<h3 align="center">⭐ If you like this profile, consider giving my repos a star!</h3>

@@ -33,7 +33,7 @@ I believe in learning by doing and improving every single day.
 - 💡 Object-Oriented Programming (OOP)  
 - 🧩 Data Structures  
 - ⚙️ Algorithms  
-- 🗄️ Database Fundamentals  
+- 🗄️ Database (SQL)
 - 🧠 Problem-Solving  
 - 🤖 Machine Learning (Coming Soon)
 

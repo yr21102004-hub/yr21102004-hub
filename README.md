@@ -1,5 +1,6 @@
 <h1 align="center">🚀 Hi, I'm <span style="color:#4CAF50;">Youssef Ramadan</span></h1>
-<h3 align="center">💻 Computer Science Student | 🤖 Future ML Engineer | 🧠 Problem Solver</h3>
+<h3 align="center">💻 Computer Science Student | 🤖 Future ML Engineer | 🧠 Problem Solver | ![Python Developer](https://img.shields.io/badge/Python%20Developer-%F0%9F%90%8D-brightgreen)
+</h3>
 
 ## 🏅 Badges & Stats
 <p align="center">

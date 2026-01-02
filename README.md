@@ -27,8 +27,12 @@ I believe in learning by doing and improving every single day.
 
 ### 🧰 Tools
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  [![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge&logo=apache-netbeans-ide)](https://netbeans.apache.org/)
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  </a>
 </p>
 
 ### 📘 Core Concepts

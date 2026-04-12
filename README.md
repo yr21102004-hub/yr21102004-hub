@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm <span style="color:#4CAF50;">Youssef Ramadan</span></h1>
-<h3 align="center">💻 Computer Science Student | 🤖 Future ML Engineer | 🧠 Problem Solver | 🐍 Python Developer
+<h3 align="center">💻 Computer Science Student | 🤖 Future ML Engineer | 📊 Data Science |🧠 Problem Solver | 🐍 Python Developer
 </h3>
 
 ## 🏅 Badges & Stats
